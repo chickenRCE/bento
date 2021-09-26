@@ -1,5 +1,7 @@
 # bento
 
+[![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
 This is an attempt as a faster, easier-to-setup version of [pwnvm](https://github.com/OpenToAllCTF/pwnvm), **with PowerShell scripts**.
 
 ## Installation
