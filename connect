@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ "$#" -ge 1 ]; then
-    docker exec -it pwndock $@
+    docker exec -it bento $@
 else
-    docker exec -it pwndock tmux
+    docker exec -it bento tmux
 fi
